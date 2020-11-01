@@ -1,0 +1,2 @@
+# NYC-Airbnb-Price-Perdiction
+Introduction Airbnb is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences since 2008. NYC is the most populous city in the United States and also one of the most popular tourism and business place in the world. Business Understanding:  Hospitality problem: Finding a room that suits the customer desired Clear Question:  What is the most preferred room type? Price prediction for Airbnb NYC? Measureable Outcomes: - Price prediction based on room type, ratings, and region
